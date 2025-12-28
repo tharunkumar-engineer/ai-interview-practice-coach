@@ -8,7 +8,7 @@ Freshers struggle to practice interview questions and lack real-time feedback.
 
 
 
-&nbsp;Solution:
+ Solution:
 
 An AI-powered platform that conducts mock interviews and provides instant scoring and feedback.
 
@@ -44,7 +44,9 @@ User → Web UI → Flask Backend → AI API → Feedback → UI
 
 Deployment:
 
-(To be added)
+https://ai-interview-practice-coach.onrender.com
+
+
 
 
 
