@@ -52,5 +52,5 @@ https://ai-interview-practice-coach.onrender.com
 
 Demo Video:
 
-(To be added)
+https://drive.google.com/file/d/1OZe5iv4aB0mOv3yAWuGyytzTvJWCqv3z/view?usp=sharing
 
